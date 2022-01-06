@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/emart/static/css/main.5db5f342.css",
-    "main.js": "/emart/static/js/main.73e6dfb9.js",
+    "main.js": "/emart/static/js/main.a46b3a20.js",
     "static/media/error.png": "/emart/static/media/error.7aaabf538685a283c9ed.png",
     "static/media/empty.png": "/emart/static/media/empty.4486b32a0f958dbf181e.png",
     "index.html": "/emart/index.html",
     "main.5db5f342.css.map": "/emart/static/css/main.5db5f342.css.map",
-    "main.73e6dfb9.js.map": "/emart/static/js/main.73e6dfb9.js.map"
+    "main.a46b3a20.js.map": "/emart/static/js/main.a46b3a20.js.map"
   },
   "entrypoints": [
     "static/css/main.5db5f342.css",
-    "static/js/main.73e6dfb9.js"
+    "static/js/main.a46b3a20.js"
   ]
 }
