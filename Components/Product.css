@@ -1,0 +1,10 @@
+.link{
+    text-decoration: none;
+    color: #000;
+}
+.link:hover{
+    color: #000;
+}
+.product-box:hover .product-txt{
+    text-decoration: underline;
+}
